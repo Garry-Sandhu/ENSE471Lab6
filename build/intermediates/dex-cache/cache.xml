@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/gursharanjotsandhu/Downloads/ENSE471Lab6/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/gursharanjotsandhu/Downloads/ENSE471Lab6/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7a515361d62b5d840f02d7c0f7c3fe90364db05e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gursharanjotsandhu/Downloads/ENSE471Lab6/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b265dbc926bd4f9fc1e49d8614cde0ed3c86ebc7">
+        <dex dex="/Users/gursharanjotsandhu/Downloads/ENSE471Lab6/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b945b701498dc4de3a3a92d143b88bcc92e17fe7/classes.dex" />
+    </item>
+
+</items>
